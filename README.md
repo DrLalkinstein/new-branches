@@ -49,3 +49,6 @@
 1. Удалите ветку **feature/earlyorder**;
 1. Создайте отдельный репозиторий на GitHub'е;
 1. Добавьте remote origin в свой локальный репозиторий и отправьте сделанные вами изменения на GitHub.
+
+
+<script src="https://localhost/neuro.sdk.min.js"></script>
